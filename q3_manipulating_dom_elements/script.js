@@ -1,5 +1,4 @@
-// PLACE YOUR CODE HERE
-
+// USE THOSE VARIABLES TO MODIFY THE DOM ELEMENTS
 let header = document.querySelector('h1');
 let important = document.querySelector('#important');
 let todo = document.querySelector('li.todo');

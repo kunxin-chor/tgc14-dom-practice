@@ -19,7 +19,7 @@ it("should be able to select the header", async () => {
     solution = require("./script.js");
   }
   let {header, important, todo} = solution;
-  expect(document.querySelector("h1")).toBe(header);
+  
   expect(document.querySelector("span#important")).toBe(important);
   expect(document.querySelector("li.todo")).toBe(todo);
 });

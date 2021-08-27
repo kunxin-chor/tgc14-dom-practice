@@ -17,7 +17,12 @@ and `script.js` file. Follow the instructions carefully in the `readme.md` file.
 **Do not change** the `script.js` file unnecessarily (there are special code at the
 end of the `script.js` file, don't touch it!)
 
-## 3. Testing the question
+## 3. Manual testing
+Right click on the `index.html` for each question and select `Test with LiveServer`. You may have to retry after a few seconds if you are doing this for the first time.
+
+If the option does not appear, you may have to install the LiveServer extension.
+
+## 4. Testing the question with automated testing
 
 You can check if you done the question correctly by typing the following in the
 terminal:
@@ -38,7 +43,7 @@ If you just want to check all your answers, just type in the terminal:
 npm test
 ```
 
-# 4. Getting new questions
+# 5. Getting new questions
 
 To get new questions, open a **NEW** terminal and type in the terminal:
 
