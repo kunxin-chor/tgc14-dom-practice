@@ -8,7 +8,7 @@ Add in your own id or class to the HTML Remember that id is for singular occurre
 
 2. Put a border of 1px black solid around the image of the wolf, with padding top 32px and padding bottom 15px
 
-3. For the A Few Random Favorite Facts <ul>, make it such that the first and the last `<li>` has background color yellow.
+3. For the A Few Random Favorite Facts `<ul>`, make it such that the first and the last `<li>` has background color yellow.
 
 4. Change the `<h2>` to have the inner text "Pancake Recipe" instead of "How to Cook Pancakes. What you need".
 
